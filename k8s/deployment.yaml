@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: bankapp
-        image: pramendraatwork/bankapp:latest
+        image: pramendradevops/bankapp:latest
         ports:
         - containerPort: 8080
         env:

@@ -7,7 +7,7 @@ on:
       - 'k8s/**'
 
 env:
-  IMAGE_NAME: pramendraatwork/bankapp
+  IMAGE_NAME: pramendradevops/bankapp
 
 jobs:
   build-and-push:
