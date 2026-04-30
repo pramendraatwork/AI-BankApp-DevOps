@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: bankapp
-        image: pramendradevops/bankapp:2ac8650fe36df423f977ed7974eac9883fa3155a
+        image: pramendradevops/bankapp:523dba40034974615c6fb26b2e22d6a7a3a4cfa2
         ports:
         - containerPort: 8080
         env:
